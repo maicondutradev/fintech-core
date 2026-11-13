@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/src/">
+    <Project Path="src/FintechCore.Api/FintechCore.Api.csproj" />
+    <Project Path="src/FintechCore.Application/FintechCore.Application.csproj" />
+    <Project Path="src/FintechCore.Domain/FintechCore.Domain.csproj" />
+    <Project Path="src/FintechCore.Infrastructure/FintechCore.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FintechCore.IntegrationTests/FintechCore.IntegrationTests.csproj" />
+    <Project Path="tests/FintechCore.UnitTests/FintechCore.UnitTests.csproj" />
+  </Folder>
+</Solution>
